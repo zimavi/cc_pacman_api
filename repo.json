@@ -1,2 +1,9 @@
-{
-}
+[
+    {
+        "name": "test",
+        "author": "zimavi",
+        "version": "1.0",
+        "desc": "Simple Lua hello world program for testing purpose",
+        "dwn_lnk": "https://raw.githubusercontent.com/zimavi/cc_pacman_api/main/test.lua"
+    }
+]
