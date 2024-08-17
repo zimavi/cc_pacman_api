@@ -5,7 +5,7 @@
         "version": {
             "major": 1,
             "minor": 0,
-            "patch": 0
+            "patch": 1
         },
         "desc": "Simple Lua hello world program for testing purpose",
         "checksum": "c63bf759e5502fc9f4ad863b883423a2d75992aeaebee6a713eb81fe3f714a4b",
