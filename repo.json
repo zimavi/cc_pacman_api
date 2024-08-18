@@ -21,7 +21,7 @@
         },
         "desc": "Lua internet browser that supports colors and links",
         "checksum": "bd139c716357710c6b581fbf91f2a84ac889afb888c6310f6397b59d79471b00",
-        "dwn_link": "https://pastebin.com/raw/n0TYWPg0"
+        "dwn_lnk": "https://pastebin.com/raw/n0TYWPg0"
     },
     {
         "name": "player.lua",
@@ -33,6 +33,6 @@
         },
         "desc": "Lua music player that works with DFPWM audio files",
         "checksum": "ba84e9f6b300c3649617cea9a202408cc95701b0f3fa83a31cbb66ea4fdb70cf",
-        "dwn_link": "https://pastebin.com/raw/pwwiMsxF"
+        "dwn_lnk": "https://pastebin.com/raw/pwwiMsxF"
     }
 ]
