@@ -15,7 +15,7 @@
         "name": "browser.lua",
         "author": "zimavi",
         "version": {
-            "major": 1.
+            "major": 1,
             "minor": 0,
             "patch": 0
         },
@@ -27,7 +27,7 @@
         "name": "player.lua",
         "author": "zimavi",
         "version": {
-            "major": 1.
+            "major": 1,
             "minor": 0,
             "patch": 0
         },
